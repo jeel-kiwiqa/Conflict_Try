@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-AAAAAAaaaa
-=======
 ABC
->>>>>>> 3b97dfbdfb44b655933be9179460716317185dcf
-
-
